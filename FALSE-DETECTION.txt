@@ -1,0 +1,4 @@
+Antiviruses such as Defender, Sophos or McAfee Scanner may flag it as MALICIOUS.
+These tools aren't, and never will be malicious in any way.
+
+If you want proof, check the source code.
